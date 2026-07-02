@@ -1,3 +1,6 @@
+<img width="1586" height="672" alt="banner mzp" src="https://github.com/user-attachments/assets/f67d47fa-4ec5-4111-a1b7-5585fc38099c" />
+
+
 # 📱 Mozo Plus
 
 ## Descripción General
